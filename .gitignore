@@ -1,0 +1,7 @@
+data
+noise_venv
+temp
+trash
+*.json
+.idea
+__pycache__
